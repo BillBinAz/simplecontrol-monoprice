@@ -1,0 +1,1745 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>brand</key>
+		<string>Niles</string>
+		<key>cat</key>
+		<string>ZR Series All Zones</string>
+		<key>codes</key>
+		<dict>
+			<key>INPUT 1</key>
+			<string>znt,01,h</string>
+			<key>INPUT 2</key>
+			<string>znt,02,h</string>
+			<key>INPUT 3</key>
+			<string>znt,03,h</string>
+			<key>INPUT 4</key>
+			<string>znt,04,h</string>
+			<key>INPUT 5</key>
+			<string>znt,05,h</string>
+			<key>INPUT 6</key>
+			<string>znt,06,h</string>
+			<key>POWER OFF</key>
+			<string>znt,10,h</string>
+		</dict>
+		<key>method</key>
+		<string>lineio</string>
+		<key>type</key>
+		<integer>14</integer>
+		<key>uuid</key>
+		<string>A4CFA47F-367C-40C7-87E4-C423A8443FE4</string>
+	</dict>
+	<dict>
+		<key>brand</key>
+		<string>Niles</string>
+		<key>cat</key>
+		<string>ZR Series Zone 1</string>
+		<key>codes</key>
+		<dict>
+			<key>CURSOR DOWN</key>
+			<string>zsc,1,29</string>
+			<key>CURSOR ENTER</key>
+			<string>zsc,1,26</string>
+			<key>CURSOR LEFT</key>
+			<string>zsc,1,25</string>
+			<key>CURSOR RIGHT</key>
+			<string>zsc,1,27</string>
+			<key>CURSOR UP</key>
+			<string>zsc,1,23</string>
+			<key>DIGIT 0</key>
+			<string>zsc,1,42</string>
+			<key>DIGIT 1</key>
+			<string>zsc,1,33</string>
+			<key>DIGIT 2</key>
+			<string>zsc,1,34</string>
+			<key>DIGIT 3</key>
+			<string>zsc,1,35</string>
+			<key>DIGIT 4</key>
+			<string>zsc,1,36</string>
+			<key>DIGIT 5</key>
+			<string>zsc,1,37</string>
+			<key>DIGIT 6</key>
+			<string>zsc,1,38</string>
+			<key>DIGIT 7</key>
+			<string>zsc,1,39</string>
+			<key>DIGIT 8</key>
+			<string>zsc,1,40</string>
+			<key>DIGIT 9</key>
+			<string>zsc,1,41</string>
+			<key>DISC</key>
+			<string>zsc,1,47</string>
+			<key>ENTER</key>
+			<string>zsc,1,69</string>
+			<key>FORWARD</key>
+			<string>zsc,1,21</string>
+			<key>GROUP</key>
+			<string>zsc,1,46</string>
+			<key>INPUT 1</key>
+			<string>zsc,1,01</string>
+			<key>INPUT 2</key>
+			<string>zsc,1,02</string>
+			<key>INPUT 3</key>
+			<string>zsc,1,03</string>
+			<key>INPUT 4</key>
+			<string>zsc,1,04</string>
+			<key>INPUT 5</key>
+			<string>zsc,1,05</string>
+			<key>INPUT 6</key>
+			<string>zsc,1,06</string>
+			<key>MUTE TOGGLE</key>
+			<string>zsc,1,11</string>
+			<key>NEXT</key>
+			<string>zsc,1,44</string>
+			<key>PAGE DOWN</key>
+			<string>zsc,1,127</string>
+			<key>PAGE UP</key>
+			<string>zsc,1,126</string>
+			<key>PAUSE</key>
+			<string>zsc,1,19</string>
+			<key>PLAY</key>
+			<string>zsc,1,17</string>
+			<key>POWER OFF</key>
+			<string>zsc,1,10</string>
+			<key>POWER ON</key>
+			<string>zsc,1,49</string>
+			<key>PREVIOUS</key>
+			<string>zsc,1,43</string>
+			<key>RECORD</key>
+			<string>zsc,1,144</string>
+			<key>REWIND</key>
+			<string>zsc,1,20</string>
+			<key>SHUFFLE</key>
+			<string>zsc,1,45</string>
+			<key>STOP</key>
+			<string>zsc,1,18</string>
+			<key>VOLUME DOWN</key>
+			<string>zsc,1,13</string>
+			<key>VOLUME UP</key>
+			<string>zsc,1,12</string>
+		</dict>
+		<key>method</key>
+		<string>lineio</string>
+		<key>type</key>
+		<integer>14</integer>
+		<key>uuid</key>
+		<string>B8D2FE08-2545-4108-8DA8-1EDF5BFAC08A</string>
+	</dict>
+	<dict>
+		<key>brand</key>
+		<string>Niles</string>
+		<key>cat</key>
+		<string>ZR Series Zone 2</string>
+		<key>codes</key>
+		<dict>
+			<key>CURSOR DOWN</key>
+			<string>zsc,2,29</string>
+			<key>CURSOR ENTER</key>
+			<string>zsc,2,26</string>
+			<key>CURSOR LEFT</key>
+			<string>zsc,2,25</string>
+			<key>CURSOR RIGHT</key>
+			<string>zsc,2,27</string>
+			<key>CURSOR UP</key>
+			<string>zsc,2,23</string>
+			<key>DIGIT 0</key>
+			<string>zsc,2,42</string>
+			<key>DIGIT 1</key>
+			<string>zsc,2,33</string>
+			<key>DIGIT 2</key>
+			<string>zsc,2,34</string>
+			<key>DIGIT 3</key>
+			<string>zsc,2,35</string>
+			<key>DIGIT 4</key>
+			<string>zsc,2,36</string>
+			<key>DIGIT 5</key>
+			<string>zsc,2,37</string>
+			<key>DIGIT 6</key>
+			<string>zsc,2,38</string>
+			<key>DIGIT 7</key>
+			<string>zsc,2,39</string>
+			<key>DIGIT 8</key>
+			<string>zsc,2,40</string>
+			<key>DIGIT 9</key>
+			<string>zsc,2,41</string>
+			<key>DISC</key>
+			<string>zsc,2,47</string>
+			<key>ENTER</key>
+			<string>zsc,2,69</string>
+			<key>FORWARD</key>
+			<string>zsc,2,21</string>
+			<key>GROUP</key>
+			<string>zsc,2,46</string>
+			<key>INPUT 1</key>
+			<string>zsc,2,01</string>
+			<key>INPUT 2</key>
+			<string>zsc,2,02</string>
+			<key>INPUT 3</key>
+			<string>zsc,2,03</string>
+			<key>INPUT 4</key>
+			<string>zsc,2,04</string>
+			<key>INPUT 5</key>
+			<string>zsc,2,05</string>
+			<key>INPUT 6</key>
+			<string>zsc,2,06</string>
+			<key>MUTE TOGGLE</key>
+			<string>zsc,2,11</string>
+			<key>NEXT</key>
+			<string>zsc,2,44</string>
+			<key>PAGE DOWN</key>
+			<string>zsc,2,127</string>
+			<key>PAGE UP</key>
+			<string>zsc,2,126</string>
+			<key>PAUSE</key>
+			<string>zsc,2,19</string>
+			<key>PLAY</key>
+			<string>zsc,2,17</string>
+			<key>POWER OFF</key>
+			<string>zsc,2,10</string>
+			<key>POWER ON</key>
+			<string>zsc,2,49</string>
+			<key>PREVIOUS</key>
+			<string>zsc,2,43</string>
+			<key>RECORD</key>
+			<string>zsc,2,144</string>
+			<key>REWIND</key>
+			<string>zsc,2,20</string>
+			<key>SHUFFLE</key>
+			<string>zsc,2,45</string>
+			<key>STOP</key>
+			<string>zsc,2,18</string>
+			<key>VOLUME DOWN</key>
+			<string>zsc,2,13</string>
+			<key>VOLUME UP</key>
+			<string>zsc,2,12</string>
+		</dict>
+		<key>method</key>
+		<string>lineio</string>
+		<key>type</key>
+		<integer>14</integer>
+		<key>uuid</key>
+		<string>1F8CFA74-3681-46D3-920F-8302FB60EA55</string>
+	</dict>
+	<dict>
+		<key>brand</key>
+		<string>Niles</string>
+		<key>cat</key>
+		<string>ZR Series Zone 3</string>
+		<key>codes</key>
+		<dict>
+			<key>CURSOR DOWN</key>
+			<string>zsc,3,29</string>
+			<key>CURSOR ENTER</key>
+			<string>zsc,3,26</string>
+			<key>CURSOR LEFT</key>
+			<string>zsc,3,25</string>
+			<key>CURSOR RIGHT</key>
+			<string>zsc,3,27</string>
+			<key>CURSOR UP</key>
+			<string>zsc,3,23</string>
+			<key>DIGIT 0</key>
+			<string>zsc,3,42</string>
+			<key>DIGIT 1</key>
+			<string>zsc,3,33</string>
+			<key>DIGIT 2</key>
+			<string>zsc,3,34</string>
+			<key>DIGIT 3</key>
+			<string>zsc,3,35</string>
+			<key>DIGIT 4</key>
+			<string>zsc,3,36</string>
+			<key>DIGIT 5</key>
+			<string>zsc,3,37</string>
+			<key>DIGIT 6</key>
+			<string>zsc,3,38</string>
+			<key>DIGIT 7</key>
+			<string>zsc,3,39</string>
+			<key>DIGIT 8</key>
+			<string>zsc,3,40</string>
+			<key>DIGIT 9</key>
+			<string>zsc,3,41</string>
+			<key>DISC</key>
+			<string>zsc,3,47</string>
+			<key>ENTER</key>
+			<string>zsc,3,69</string>
+			<key>FORWARD</key>
+			<string>zsc,3,21</string>
+			<key>GROUP</key>
+			<string>zsc,3,46</string>
+			<key>INPUT 1</key>
+			<string>zsc,3,01</string>
+			<key>INPUT 2</key>
+			<string>zsc,3,02</string>
+			<key>INPUT 3</key>
+			<string>zsc,3,03</string>
+			<key>INPUT 4</key>
+			<string>zsc,3,04</string>
+			<key>INPUT 5</key>
+			<string>zsc,3,05</string>
+			<key>INPUT 6</key>
+			<string>zsc,3,06</string>
+			<key>MUTE TOGGLE</key>
+			<string>zsc,3,11</string>
+			<key>NEXT</key>
+			<string>zsc,3,44</string>
+			<key>PAGE DOWN</key>
+			<string>zsc,3,127</string>
+			<key>PAGE UP</key>
+			<string>zsc,3,126</string>
+			<key>PAUSE</key>
+			<string>zsc,3,19</string>
+			<key>PLAY</key>
+			<string>zsc,3,17</string>
+			<key>POWER OFF</key>
+			<string>zsc,3,10</string>
+			<key>POWER ON</key>
+			<string>zsc,3,49</string>
+			<key>PREVIOUS</key>
+			<string>zsc,3,43</string>
+			<key>RECORD</key>
+			<string>zsc,3,144</string>
+			<key>REWIND</key>
+			<string>zsc,3,20</string>
+			<key>SHUFFLE</key>
+			<string>zsc,3,45</string>
+			<key>STOP</key>
+			<string>zsc,3,18</string>
+			<key>VOLUME DOWN</key>
+			<string>zsc,3,13</string>
+			<key>VOLUME UP</key>
+			<string>zsc,3,12</string>
+		</dict>
+		<key>method</key>
+		<string>lineio</string>
+		<key>type</key>
+		<integer>14</integer>
+		<key>uuid</key>
+		<string>90A9B7B2-76B2-4710-8724-C352CDAA3398</string>
+	</dict>
+	<dict>
+		<key>brand</key>
+		<string>Niles</string>
+		<key>cat</key>
+		<string>ZR Series Zone 4</string>
+		<key>codes</key>
+		<dict>
+			<key>CURSOR DOWN</key>
+			<string>zsc,4,29</string>
+			<key>CURSOR ENTER</key>
+			<string>zsc,4,26</string>
+			<key>CURSOR LEFT</key>
+			<string>zsc,4,25</string>
+			<key>CURSOR RIGHT</key>
+			<string>zsc,4,27</string>
+			<key>CURSOR UP</key>
+			<string>zsc,4,23</string>
+			<key>DIGIT 0</key>
+			<string>zsc,4,42</string>
+			<key>DIGIT 1</key>
+			<string>zsc,4,33</string>
+			<key>DIGIT 2</key>
+			<string>zsc,4,34</string>
+			<key>DIGIT 3</key>
+			<string>zsc,4,35</string>
+			<key>DIGIT 4</key>
+			<string>zsc,4,36</string>
+			<key>DIGIT 5</key>
+			<string>zsc,4,37</string>
+			<key>DIGIT 6</key>
+			<string>zsc,4,38</string>
+			<key>DIGIT 7</key>
+			<string>zsc,4,39</string>
+			<key>DIGIT 8</key>
+			<string>zsc,4,40</string>
+			<key>DIGIT 9</key>
+			<string>zsc,4,41</string>
+			<key>DISC</key>
+			<string>zsc,4,47</string>
+			<key>ENTER</key>
+			<string>zsc,4,69</string>
+			<key>FORWARD</key>
+			<string>zsc,4,21</string>
+			<key>GROUP</key>
+			<string>zsc,4,46</string>
+			<key>INPUT 1</key>
+			<string>zsc,4,01</string>
+			<key>INPUT 2</key>
+			<string>zsc,4,02</string>
+			<key>INPUT 3</key>
+			<string>zsc,4,03</string>
+			<key>INPUT 4</key>
+			<string>zsc,4,04</string>
+			<key>INPUT 5</key>
+			<string>zsc,4,05</string>
+			<key>INPUT 6</key>
+			<string>zsc,4,06</string>
+			<key>MUTE TOGGLE</key>
+			<string>zsc,4,11</string>
+			<key>NEXT</key>
+			<string>zsc,4,44</string>
+			<key>PAGE DOWN</key>
+			<string>zsc,4,127</string>
+			<key>PAGE UP</key>
+			<string>zsc,4,126</string>
+			<key>PAUSE</key>
+			<string>zsc,4,19</string>
+			<key>PLAY</key>
+			<string>zsc,4,17</string>
+			<key>POWER OFF</key>
+			<string>zsc,4,10</string>
+			<key>POWER ON</key>
+			<string>zsc,4,49</string>
+			<key>PREVIOUS</key>
+			<string>zsc,4,43</string>
+			<key>RECORD</key>
+			<string>zsc,4,144</string>
+			<key>REWIND</key>
+			<string>zsc,4,20</string>
+			<key>SHUFFLE</key>
+			<string>zsc,4,45</string>
+			<key>STOP</key>
+			<string>zsc,4,18</string>
+			<key>VOLUME DOWN</key>
+			<string>zsc,4,13</string>
+			<key>VOLUME UP</key>
+			<string>zsc,4,12</string>
+		</dict>
+		<key>method</key>
+		<string>lineio</string>
+		<key>type</key>
+		<integer>14</integer>
+		<key>uuid</key>
+		<string>5AE932C2-A13A-4BE8-AD72-8331F3983E7A</string>
+	</dict>
+	<dict>
+		<key>brand</key>
+		<string>Niles</string>
+		<key>cat</key>
+		<string>ZR Series Zone 5</string>
+		<key>codes</key>
+		<dict>
+			<key>CURSOR DOWN</key>
+			<string>zsc,5,29</string>
+			<key>CURSOR ENTER</key>
+			<string>zsc,5,26</string>
+			<key>CURSOR LEFT</key>
+			<string>zsc,5,25</string>
+			<key>CURSOR RIGHT</key>
+			<string>zsc,5,27</string>
+			<key>CURSOR UP</key>
+			<string>zsc,5,23</string>
+			<key>DIGIT 0</key>
+			<string>zsc,5,42</string>
+			<key>DIGIT 1</key>
+			<string>zsc,5,33</string>
+			<key>DIGIT 2</key>
+			<string>zsc,5,34</string>
+			<key>DIGIT 3</key>
+			<string>zsc,5,35</string>
+			<key>DIGIT 4</key>
+			<string>zsc,5,36</string>
+			<key>DIGIT 5</key>
+			<string>zsc,5,37</string>
+			<key>DIGIT 6</key>
+			<string>zsc,5,38</string>
+			<key>DIGIT 7</key>
+			<string>zsc,5,39</string>
+			<key>DIGIT 8</key>
+			<string>zsc,5,40</string>
+			<key>DIGIT 9</key>
+			<string>zsc,5,41</string>
+			<key>DISC</key>
+			<string>zsc,5,47</string>
+			<key>ENTER</key>
+			<string>zsc,5,69</string>
+			<key>FORWARD</key>
+			<string>zsc,5,21</string>
+			<key>GROUP</key>
+			<string>zsc,5,46</string>
+			<key>INPUT 1</key>
+			<string>zsc,5,01</string>
+			<key>INPUT 2</key>
+			<string>zsc,5,02</string>
+			<key>INPUT 3</key>
+			<string>zsc,5,03</string>
+			<key>INPUT 4</key>
+			<string>zsc,5,04</string>
+			<key>INPUT 5</key>
+			<string>zsc,5,05</string>
+			<key>INPUT 6</key>
+			<string>zsc,5,06</string>
+			<key>MUTE TOGGLE</key>
+			<string>zsc,5,11</string>
+			<key>NEXT</key>
+			<string>zsc,5,44</string>
+			<key>PAGE DOWN</key>
+			<string>zsc,5,127</string>
+			<key>PAGE UP</key>
+			<string>zsc,5,126</string>
+			<key>PAUSE</key>
+			<string>zsc,5,19</string>
+			<key>PLAY</key>
+			<string>zsc,5,17</string>
+			<key>POWER OFF</key>
+			<string>zsc,5,10</string>
+			<key>POWER ON</key>
+			<string>zsc,5,49</string>
+			<key>PREVIOUS</key>
+			<string>zsc,5,43</string>
+			<key>RECORD</key>
+			<string>zsc,5,144</string>
+			<key>REWIND</key>
+			<string>zsc,5,20</string>
+			<key>SHUFFLE</key>
+			<string>zsc,5,45</string>
+			<key>STOP</key>
+			<string>zsc,5,18</string>
+			<key>VOLUME DOWN</key>
+			<string>zsc,5,13</string>
+			<key>VOLUME UP</key>
+			<string>zsc,5,12</string>
+		</dict>
+		<key>method</key>
+		<string>lineio</string>
+		<key>type</key>
+		<integer>14</integer>
+		<key>uuid</key>
+		<string>483C2C8E-BB49-430B-9CA1-B68DAC4B0D58</string>
+	</dict>
+	<dict>
+		<key>brand</key>
+		<string>Niles</string>
+		<key>cat</key>
+		<string>ZR Series Zone 6</string>
+		<key>codes</key>
+		<dict>
+			<key>CURSOR DOWN</key>
+			<string>zsc,6,29</string>
+			<key>CURSOR ENTER</key>
+			<string>zsc,6,26</string>
+			<key>CURSOR LEFT</key>
+			<string>zsc,6,25</string>
+			<key>CURSOR RIGHT</key>
+			<string>zsc,6,27</string>
+			<key>CURSOR UP</key>
+			<string>zsc,6,23</string>
+			<key>DIGIT 0</key>
+			<string>zsc,6,42</string>
+			<key>DIGIT 1</key>
+			<string>zsc,6,33</string>
+			<key>DIGIT 2</key>
+			<string>zsc,6,34</string>
+			<key>DIGIT 3</key>
+			<string>zsc,6,35</string>
+			<key>DIGIT 4</key>
+			<string>zsc,6,36</string>
+			<key>DIGIT 5</key>
+			<string>zsc,6,37</string>
+			<key>DIGIT 6</key>
+			<string>zsc,6,38</string>
+			<key>DIGIT 7</key>
+			<string>zsc,6,39</string>
+			<key>DIGIT 8</key>
+			<string>zsc,6,40</string>
+			<key>DIGIT 9</key>
+			<string>zsc,6,41</string>
+			<key>DISC</key>
+			<string>zsc,6,47</string>
+			<key>ENTER</key>
+			<string>zsc,6,69</string>
+			<key>FORWARD</key>
+			<string>zsc,6,21</string>
+			<key>GROUP</key>
+			<string>zsc,6,46</string>
+			<key>INPUT 1</key>
+			<string>zsc,6,01</string>
+			<key>INPUT 2</key>
+			<string>zsc,6,02</string>
+			<key>INPUT 3</key>
+			<string>zsc,6,03</string>
+			<key>INPUT 4</key>
+			<string>zsc,6,04</string>
+			<key>INPUT 5</key>
+			<string>zsc,6,05</string>
+			<key>INPUT 6</key>
+			<string>zsc,6,06</string>
+			<key>MUTE TOGGLE</key>
+			<string>zsc,6,11</string>
+			<key>NEXT</key>
+			<string>zsc,6,44</string>
+			<key>PAGE DOWN</key>
+			<string>zsc,6,127</string>
+			<key>PAGE UP</key>
+			<string>zsc,6,126</string>
+			<key>PAUSE</key>
+			<string>zsc,6,19</string>
+			<key>PLAY</key>
+			<string>zsc,6,17</string>
+			<key>POWER OFF</key>
+			<string>zsc,6,10</string>
+			<key>POWER ON</key>
+			<string>zsc,6,49</string>
+			<key>PREVIOUS</key>
+			<string>zsc,6,43</string>
+			<key>RECORD</key>
+			<string>zsc,6,144</string>
+			<key>REWIND</key>
+			<string>zsc,6,20</string>
+			<key>SHUFFLE</key>
+			<string>zsc,6,45</string>
+			<key>STOP</key>
+			<string>zsc,6,18</string>
+			<key>VOLUME DOWN</key>
+			<string>zsc,6,13</string>
+			<key>VOLUME UP</key>
+			<string>zsc,6,12</string>
+		</dict>
+		<key>method</key>
+		<string>lineio</string>
+		<key>type</key>
+		<integer>14</integer>
+		<key>uuid</key>
+		<string>B9CA92D8-C406-4283-B197-CE77DC17022C</string>
+	</dict>
+	<dict>
+		<key>brand</key>
+		<string>Niles</string>
+		<key>cat</key>
+		<string>ZR Series Zone 7</string>
+		<key>codes</key>
+		<dict>
+			<key>CURSOR DOWN</key>
+			<string>zsc,7,29</string>
+			<key>CURSOR ENTER</key>
+			<string>zsc,7,26</string>
+			<key>CURSOR LEFT</key>
+			<string>zsc,7,25</string>
+			<key>CURSOR RIGHT</key>
+			<string>zsc,7,27</string>
+			<key>CURSOR UP</key>
+			<string>zsc,7,23</string>
+			<key>DIGIT 0</key>
+			<string>zsc,7,42</string>
+			<key>DIGIT 1</key>
+			<string>zsc,7,33</string>
+			<key>DIGIT 2</key>
+			<string>zsc,7,34</string>
+			<key>DIGIT 3</key>
+			<string>zsc,7,35</string>
+			<key>DIGIT 4</key>
+			<string>zsc,7,36</string>
+			<key>DIGIT 5</key>
+			<string>zsc,7,37</string>
+			<key>DIGIT 6</key>
+			<string>zsc,7,38</string>
+			<key>DIGIT 7</key>
+			<string>zsc,7,39</string>
+			<key>DIGIT 8</key>
+			<string>zsc,7,40</string>
+			<key>DIGIT 9</key>
+			<string>zsc,7,41</string>
+			<key>DISC</key>
+			<string>zsc,7,47</string>
+			<key>ENTER</key>
+			<string>zsc,7,69</string>
+			<key>FORWARD</key>
+			<string>zsc,7,21</string>
+			<key>GROUP</key>
+			<string>zsc,7,46</string>
+			<key>INPUT 1</key>
+			<string>zsc,7,01</string>
+			<key>INPUT 2</key>
+			<string>zsc,7,02</string>
+			<key>INPUT 3</key>
+			<string>zsc,7,03</string>
+			<key>INPUT 4</key>
+			<string>zsc,7,04</string>
+			<key>INPUT 5</key>
+			<string>zsc,7,05</string>
+			<key>INPUT 6</key>
+			<string>zsc,7,06</string>
+			<key>MUTE TOGGLE</key>
+			<string>zsc,7,11</string>
+			<key>NEXT</key>
+			<string>zsc,7,44</string>
+			<key>PAGE DOWN</key>
+			<string>zsc,7,127</string>
+			<key>PAGE UP</key>
+			<string>zsc,7,126</string>
+			<key>PAUSE</key>
+			<string>zsc,7,19</string>
+			<key>PLAY</key>
+			<string>zsc,7,17</string>
+			<key>POWER OFF</key>
+			<string>zsc,7,10</string>
+			<key>POWER ON</key>
+			<string>zsc,7,49</string>
+			<key>PREVIOUS</key>
+			<string>zsc,7,43</string>
+			<key>RECORD</key>
+			<string>zsc,7,144</string>
+			<key>REWIND</key>
+			<string>zsc,7,20</string>
+			<key>SHUFFLE</key>
+			<string>zsc,7,45</string>
+			<key>STOP</key>
+			<string>zsc,7,18</string>
+			<key>VOLUME DOWN</key>
+			<string>zsc,7,13</string>
+			<key>VOLUME UP</key>
+			<string>zsc,7,12</string>
+		</dict>
+		<key>method</key>
+		<string>lineio</string>
+		<key>type</key>
+		<integer>14</integer>
+		<key>uuid</key>
+		<string>BDEFE0A3-871E-49D4-A35C-8757E9FB0F90</string>
+	</dict>
+	<dict>
+		<key>brand</key>
+		<string>Niles</string>
+		<key>cat</key>
+		<string>ZR Series Zone 8</string>
+		<key>codes</key>
+		<dict>
+			<key>CURSOR DOWN</key>
+			<string>zsc,8,29</string>
+			<key>CURSOR ENTER</key>
+			<string>zsc,8,26</string>
+			<key>CURSOR LEFT</key>
+			<string>zsc,8,25</string>
+			<key>CURSOR RIGHT</key>
+			<string>zsc,8,27</string>
+			<key>CURSOR UP</key>
+			<string>zsc,8,23</string>
+			<key>DIGIT 0</key>
+			<string>zsc,8,42</string>
+			<key>DIGIT 1</key>
+			<string>zsc,8,33</string>
+			<key>DIGIT 2</key>
+			<string>zsc,8,34</string>
+			<key>DIGIT 3</key>
+			<string>zsc,8,35</string>
+			<key>DIGIT 4</key>
+			<string>zsc,8,36</string>
+			<key>DIGIT 5</key>
+			<string>zsc,8,37</string>
+			<key>DIGIT 6</key>
+			<string>zsc,8,38</string>
+			<key>DIGIT 7</key>
+			<string>zsc,8,39</string>
+			<key>DIGIT 8</key>
+			<string>zsc,8,40</string>
+			<key>DIGIT 9</key>
+			<string>zsc,8,41</string>
+			<key>DISC</key>
+			<string>zsc,8,47</string>
+			<key>ENTER</key>
+			<string>zsc,8,69</string>
+			<key>FORWARD</key>
+			<string>zsc,8,21</string>
+			<key>GROUP</key>
+			<string>zsc,8,46</string>
+			<key>INPUT 1</key>
+			<string>zsc,8,01</string>
+			<key>INPUT 2</key>
+			<string>zsc,8,02</string>
+			<key>INPUT 3</key>
+			<string>zsc,8,03</string>
+			<key>INPUT 4</key>
+			<string>zsc,8,04</string>
+			<key>INPUT 5</key>
+			<string>zsc,8,05</string>
+			<key>INPUT 6</key>
+			<string>zsc,8,06</string>
+			<key>MUTE TOGGLE</key>
+			<string>zsc,8,11</string>
+			<key>NEXT</key>
+			<string>zsc,8,44</string>
+			<key>PAGE DOWN</key>
+			<string>zsc,8,127</string>
+			<key>PAGE UP</key>
+			<string>zsc,8,126</string>
+			<key>PAUSE</key>
+			<string>zsc,8,19</string>
+			<key>PLAY</key>
+			<string>zsc,8,17</string>
+			<key>POWER OFF</key>
+			<string>zsc,8,10</string>
+			<key>POWER ON</key>
+			<string>zsc,8,49</string>
+			<key>PREVIOUS</key>
+			<string>zsc,8,43</string>
+			<key>RECORD</key>
+			<string>zsc,8,144</string>
+			<key>REWIND</key>
+			<string>zsc,8,20</string>
+			<key>SHUFFLE</key>
+			<string>zsc,8,45</string>
+			<key>STOP</key>
+			<string>zsc,8,18</string>
+			<key>VOLUME DOWN</key>
+			<string>zsc,8,13</string>
+			<key>VOLUME UP</key>
+			<string>zsc,8,12</string>
+		</dict>
+		<key>method</key>
+		<string>lineio</string>
+		<key>type</key>
+		<integer>14</integer>
+		<key>uuid</key>
+		<string>B6D14476-329F-4B0F-8592-1B8F44A82D7C</string>
+	</dict>
+	<dict>
+		<key>brand</key>
+		<string>Niles</string>
+		<key>cat</key>
+		<string>ZR Series Zone 9</string>
+		<key>codes</key>
+		<dict>
+			<key>CURSOR DOWN</key>
+			<string>zsc,9,29</string>
+			<key>CURSOR ENTER</key>
+			<string>zsc,9,26</string>
+			<key>CURSOR LEFT</key>
+			<string>zsc,9,25</string>
+			<key>CURSOR RIGHT</key>
+			<string>zsc,9,27</string>
+			<key>CURSOR UP</key>
+			<string>zsc,9,23</string>
+			<key>DIGIT 0</key>
+			<string>zsc,9,42</string>
+			<key>DIGIT 1</key>
+			<string>zsc,9,33</string>
+			<key>DIGIT 2</key>
+			<string>zsc,9,34</string>
+			<key>DIGIT 3</key>
+			<string>zsc,9,35</string>
+			<key>DIGIT 4</key>
+			<string>zsc,9,36</string>
+			<key>DIGIT 5</key>
+			<string>zsc,9,37</string>
+			<key>DIGIT 6</key>
+			<string>zsc,9,38</string>
+			<key>DIGIT 7</key>
+			<string>zsc,9,39</string>
+			<key>DIGIT 8</key>
+			<string>zsc,9,40</string>
+			<key>DIGIT 9</key>
+			<string>zsc,9,41</string>
+			<key>DISC</key>
+			<string>zsc,9,47</string>
+			<key>ENTER</key>
+			<string>zsc,9,69</string>
+			<key>FORWARD</key>
+			<string>zsc,9,21</string>
+			<key>GROUP</key>
+			<string>zsc,9,46</string>
+			<key>INPUT 1</key>
+			<string>zsc,9,01</string>
+			<key>INPUT 2</key>
+			<string>zsc,9,02</string>
+			<key>INPUT 3</key>
+			<string>zsc,9,03</string>
+			<key>INPUT 4</key>
+			<string>zsc,9,04</string>
+			<key>INPUT 5</key>
+			<string>zsc,9,05</string>
+			<key>INPUT 6</key>
+			<string>zsc,9,06</string>
+			<key>MUTE TOGGLE</key>
+			<string>zsc,9,11</string>
+			<key>NEXT</key>
+			<string>zsc,9,44</string>
+			<key>PAGE DOWN</key>
+			<string>zsc,9,127</string>
+			<key>PAGE UP</key>
+			<string>zsc,9,126</string>
+			<key>PAUSE</key>
+			<string>zsc,9,19</string>
+			<key>PLAY</key>
+			<string>zsc,9,17</string>
+			<key>POWER OFF</key>
+			<string>zsc,9,10</string>
+			<key>POWER ON</key>
+			<string>zsc,9,49</string>
+			<key>PREVIOUS</key>
+			<string>zsc,9,43</string>
+			<key>RECORD</key>
+			<string>zsc,9,144</string>
+			<key>REWIND</key>
+			<string>zsc,9,20</string>
+			<key>SHUFFLE</key>
+			<string>zsc,9,45</string>
+			<key>STOP</key>
+			<string>zsc,9,18</string>
+			<key>VOLUME DOWN</key>
+			<string>zsc,9,13</string>
+			<key>VOLUME UP</key>
+			<string>zsc,9,12</string>
+		</dict>
+		<key>method</key>
+		<string>lineio</string>
+		<key>type</key>
+		<integer>14</integer>
+		<key>uuid</key>
+		<string>CE68316B-1069-4F3E-9237-D18765D9F22B</string>
+	</dict>
+	<dict>
+		<key>brand</key>
+		<string>Niles</string>
+		<key>cat</key>
+		<string>ZR Series Zone 10</string>
+		<key>codes</key>
+		<dict>
+			<key>CURSOR DOWN</key>
+			<string>zsc,10,29</string>
+			<key>CURSOR ENTER</key>
+			<string>zsc,10,26</string>
+			<key>CURSOR LEFT</key>
+			<string>zsc,10,25</string>
+			<key>CURSOR RIGHT</key>
+			<string>zsc,10,27</string>
+			<key>CURSOR UP</key>
+			<string>zsc,10,23</string>
+			<key>DIGIT 0</key>
+			<string>zsc,10,42</string>
+			<key>DIGIT 1</key>
+			<string>zsc,10,33</string>
+			<key>DIGIT 2</key>
+			<string>zsc,10,34</string>
+			<key>DIGIT 3</key>
+			<string>zsc,10,35</string>
+			<key>DIGIT 4</key>
+			<string>zsc,10,36</string>
+			<key>DIGIT 5</key>
+			<string>zsc,10,37</string>
+			<key>DIGIT 6</key>
+			<string>zsc,10,38</string>
+			<key>DIGIT 7</key>
+			<string>zsc,10,39</string>
+			<key>DIGIT 8</key>
+			<string>zsc,10,40</string>
+			<key>DIGIT 9</key>
+			<string>zsc,10,41</string>
+			<key>DISC</key>
+			<string>zsc,10,47</string>
+			<key>ENTER</key>
+			<string>zsc,10,69</string>
+			<key>FORWARD</key>
+			<string>zsc,10,21</string>
+			<key>GROUP</key>
+			<string>zsc,10,46</string>
+			<key>INPUT 1</key>
+			<string>zsc,10,01</string>
+			<key>INPUT 2</key>
+			<string>zsc,10,02</string>
+			<key>INPUT 3</key>
+			<string>zsc,10,03</string>
+			<key>INPUT 4</key>
+			<string>zsc,10,04</string>
+			<key>INPUT 5</key>
+			<string>zsc,10,05</string>
+			<key>INPUT 6</key>
+			<string>zsc,10,06</string>
+			<key>MUTE TOGGLE</key>
+			<string>zsc,10,11</string>
+			<key>NEXT</key>
+			<string>zsc,10,44</string>
+			<key>PAGE DOWN</key>
+			<string>zsc,10,127</string>
+			<key>PAGE UP</key>
+			<string>zsc,10,126</string>
+			<key>PAUSE</key>
+			<string>zsc,10,19</string>
+			<key>PLAY</key>
+			<string>zsc,10,17</string>
+			<key>POWER OFF</key>
+			<string>zsc,10,10</string>
+			<key>POWER ON</key>
+			<string>zsc,10,49</string>
+			<key>PREVIOUS</key>
+			<string>zsc,10,43</string>
+			<key>RECORD</key>
+			<string>zsc,10,144</string>
+			<key>REWIND</key>
+			<string>zsc,10,20</string>
+			<key>SHUFFLE</key>
+			<string>zsc,10,45</string>
+			<key>STOP</key>
+			<string>zsc,10,18</string>
+			<key>VOLUME DOWN</key>
+			<string>zsc,10,13</string>
+			<key>VOLUME UP</key>
+			<string>zsc,10,12</string>
+		</dict>
+		<key>method</key>
+		<string>lineio</string>
+		<key>type</key>
+		<integer>14</integer>
+		<key>uuid</key>
+		<string>3633DE7D-85A0-46F3-9A89-933EBBB25A3C</string>
+	</dict>
+	<dict>
+		<key>brand</key>
+		<string>Niles</string>
+		<key>cat</key>
+		<string>ZR Series Zone 11</string>
+		<key>codes</key>
+		<dict>
+			<key>CURSOR DOWN</key>
+			<string>zsc,11,29</string>
+			<key>CURSOR ENTER</key>
+			<string>zsc,11,26</string>
+			<key>CURSOR LEFT</key>
+			<string>zsc,11,25</string>
+			<key>CURSOR RIGHT</key>
+			<string>zsc,11,27</string>
+			<key>CURSOR UP</key>
+			<string>zsc,11,23</string>
+			<key>DIGIT 0</key>
+			<string>zsc,11,42</string>
+			<key>DIGIT 1</key>
+			<string>zsc,11,33</string>
+			<key>DIGIT 2</key>
+			<string>zsc,11,34</string>
+			<key>DIGIT 3</key>
+			<string>zsc,11,35</string>
+			<key>DIGIT 4</key>
+			<string>zsc,11,36</string>
+			<key>DIGIT 5</key>
+			<string>zsc,11,37</string>
+			<key>DIGIT 6</key>
+			<string>zsc,11,38</string>
+			<key>DIGIT 7</key>
+			<string>zsc,11,39</string>
+			<key>DIGIT 8</key>
+			<string>zsc,11,40</string>
+			<key>DIGIT 9</key>
+			<string>zsc,11,41</string>
+			<key>DISC</key>
+			<string>zsc,11,47</string>
+			<key>ENTER</key>
+			<string>zsc,11,69</string>
+			<key>FORWARD</key>
+			<string>zsc,11,21</string>
+			<key>GROUP</key>
+			<string>zsc,11,46</string>
+			<key>INPUT 1</key>
+			<string>zsc,11,01</string>
+			<key>INPUT 2</key>
+			<string>zsc,11,02</string>
+			<key>INPUT 3</key>
+			<string>zsc,11,03</string>
+			<key>INPUT 4</key>
+			<string>zsc,11,04</string>
+			<key>INPUT 5</key>
+			<string>zsc,11,05</string>
+			<key>INPUT 6</key>
+			<string>zsc,11,06</string>
+			<key>MUTE TOGGLE</key>
+			<string>zsc,11,11</string>
+			<key>NEXT</key>
+			<string>zsc,11,44</string>
+			<key>PAGE DOWN</key>
+			<string>zsc,11,127</string>
+			<key>PAGE UP</key>
+			<string>zsc,11,126</string>
+			<key>PAUSE</key>
+			<string>zsc,11,19</string>
+			<key>PLAY</key>
+			<string>zsc,11,17</string>
+			<key>POWER OFF</key>
+			<string>zsc,11,10</string>
+			<key>POWER ON</key>
+			<string>zsc,11,49</string>
+			<key>PREVIOUS</key>
+			<string>zsc,11,43</string>
+			<key>RECORD</key>
+			<string>zsc,11,144</string>
+			<key>REWIND</key>
+			<string>zsc,11,20</string>
+			<key>SHUFFLE</key>
+			<string>zsc,11,45</string>
+			<key>STOP</key>
+			<string>zsc,11,18</string>
+			<key>VOLUME DOWN</key>
+			<string>zsc,11,13</string>
+			<key>VOLUME UP</key>
+			<string>zsc,11,12</string>
+		</dict>
+		<key>method</key>
+		<string>lineio</string>
+		<key>type</key>
+		<integer>14</integer>
+		<key>uuid</key>
+		<string>2FAB76E5-31BC-4292-9BDD-6E8BA098892E</string>
+	</dict>
+	<dict>
+		<key>brand</key>
+		<string>Niles</string>
+		<key>cat</key>
+		<string>ZR Series Zone 12</string>
+		<key>codes</key>
+		<dict>
+			<key>CURSOR DOWN</key>
+			<string>zsc,12,29</string>
+			<key>CURSOR ENTER</key>
+			<string>zsc,12,26</string>
+			<key>CURSOR LEFT</key>
+			<string>zsc,12,25</string>
+			<key>CURSOR RIGHT</key>
+			<string>zsc,12,27</string>
+			<key>CURSOR UP</key>
+			<string>zsc,12,23</string>
+			<key>DIGIT 0</key>
+			<string>zsc,12,42</string>
+			<key>DIGIT 1</key>
+			<string>zsc,12,33</string>
+			<key>DIGIT 2</key>
+			<string>zsc,12,34</string>
+			<key>DIGIT 3</key>
+			<string>zsc,12,35</string>
+			<key>DIGIT 4</key>
+			<string>zsc,12,36</string>
+			<key>DIGIT 5</key>
+			<string>zsc,12,37</string>
+			<key>DIGIT 6</key>
+			<string>zsc,12,38</string>
+			<key>DIGIT 7</key>
+			<string>zsc,12,39</string>
+			<key>DIGIT 8</key>
+			<string>zsc,12,40</string>
+			<key>DIGIT 9</key>
+			<string>zsc,12,41</string>
+			<key>DISC</key>
+			<string>zsc,12,47</string>
+			<key>ENTER</key>
+			<string>zsc,12,69</string>
+			<key>FORWARD</key>
+			<string>zsc,12,21</string>
+			<key>GROUP</key>
+			<string>zsc,12,46</string>
+			<key>INPUT 1</key>
+			<string>zsc,12,01</string>
+			<key>INPUT 2</key>
+			<string>zsc,12,02</string>
+			<key>INPUT 3</key>
+			<string>zsc,12,03</string>
+			<key>INPUT 4</key>
+			<string>zsc,12,04</string>
+			<key>INPUT 5</key>
+			<string>zsc,12,05</string>
+			<key>INPUT 6</key>
+			<string>zsc,12,06</string>
+			<key>MUTE TOGGLE</key>
+			<string>zsc,12,11</string>
+			<key>NEXT</key>
+			<string>zsc,12,44</string>
+			<key>PAGE DOWN</key>
+			<string>zsc,12,127</string>
+			<key>PAGE UP</key>
+			<string>zsc,12,126</string>
+			<key>PAUSE</key>
+			<string>zsc,12,19</string>
+			<key>PLAY</key>
+			<string>zsc,12,17</string>
+			<key>POWER OFF</key>
+			<string>zsc,12,10</string>
+			<key>POWER ON</key>
+			<string>zsc,12,49</string>
+			<key>PREVIOUS</key>
+			<string>zsc,12,43</string>
+			<key>RECORD</key>
+			<string>zsc,12,144</string>
+			<key>REWIND</key>
+			<string>zsc,12,20</string>
+			<key>SHUFFLE</key>
+			<string>zsc,12,45</string>
+			<key>STOP</key>
+			<string>zsc,12,18</string>
+			<key>VOLUME DOWN</key>
+			<string>zsc,12,13</string>
+			<key>VOLUME UP</key>
+			<string>zsc,12,12</string>
+		</dict>
+		<key>method</key>
+		<string>lineio</string>
+		<key>type</key>
+		<integer>14</integer>
+		<key>uuid</key>
+		<string>11C244E9-A130-478D-8C77-4AD0C61454A5</string>
+	</dict>
+		<dict>
+		<key>brand</key>
+		<string>Niles</string>
+		<key>cat</key>
+		<string>ZR Series Zone 13</string>
+		<key>codes</key>
+		<dict>
+			<key>CURSOR DOWN</key>
+			<string>zsc,13,29</string>
+			<key>CURSOR ENTER</key>
+			<string>zsc,13,26</string>
+			<key>CURSOR LEFT</key>
+			<string>zsc,13,25</string>
+			<key>CURSOR RIGHT</key>
+			<string>zsc,13,27</string>
+			<key>CURSOR UP</key>
+			<string>zsc,13,23</string>
+			<key>DIGIT 0</key>
+			<string>zsc,13,42</string>
+			<key>DIGIT 1</key>
+			<string>zsc,13,33</string>
+			<key>DIGIT 2</key>
+			<string>zsc,13,34</string>
+			<key>DIGIT 3</key>
+			<string>zsc,13,35</string>
+			<key>DIGIT 4</key>
+			<string>zsc,13,36</string>
+			<key>DIGIT 5</key>
+			<string>zsc,13,37</string>
+			<key>DIGIT 6</key>
+			<string>zsc,13,38</string>
+			<key>DIGIT 7</key>
+			<string>zsc,13,39</string>
+			<key>DIGIT 8</key>
+			<string>zsc,13,40</string>
+			<key>DIGIT 9</key>
+			<string>zsc,13,41</string>
+			<key>DISC</key>
+			<string>zsc,13,47</string>
+			<key>ENTER</key>
+			<string>zsc,13,69</string>
+			<key>FORWARD</key>
+			<string>zsc,13,21</string>
+			<key>GROUP</key>
+			<string>zsc,13,46</string>
+			<key>INPUT 1</key>
+			<string>zsc,13,01</string>
+			<key>INPUT 2</key>
+			<string>zsc,13,02</string>
+			<key>INPUT 3</key>
+			<string>zsc,13,03</string>
+			<key>INPUT 4</key>
+			<string>zsc,13,04</string>
+			<key>INPUT 5</key>
+			<string>zsc,13,05</string>
+			<key>INPUT 6</key>
+			<string>zsc,13,06</string>
+			<key>MUTE TOGGLE</key>
+			<string>zsc,13,11</string>
+			<key>NEXT</key>
+			<string>zsc,13,44</string>
+			<key>PAGE DOWN</key>
+			<string>zsc,13,127</string>
+			<key>PAGE UP</key>
+			<string>zsc,13,126</string>
+			<key>PAUSE</key>
+			<string>zsc,13,19</string>
+			<key>PLAY</key>
+			<string>zsc,13,17</string>
+			<key>POWER OFF</key>
+			<string>zsc,13,10</string>
+			<key>POWER ON</key>
+			<string>zsc,13,49</string>
+			<key>PREVIOUS</key>
+			<string>zsc,13,43</string>
+			<key>RECORD</key>
+			<string>zsc,13,144</string>
+			<key>REWIND</key>
+			<string>zsc,13,20</string>
+			<key>SHUFFLE</key>
+			<string>zsc,13,45</string>
+			<key>STOP</key>
+			<string>zsc,13,18</string>
+			<key>VOLUME DOWN</key>
+			<string>zsc,13,13</string>
+			<key>VOLUME UP</key>
+			<string>zsc,13,12</string>
+		</dict>
+		<key>method</key>
+		<string>lineio</string>
+		<key>type</key>
+		<integer>14</integer>
+		<key>uuid</key>
+		<string>7E28EF12-8B2C-405D-A1C8-478DD46BA419</string>
+	</dict>
+	<dict>
+		<key>brand</key>
+		<string>Niles</string>
+		<key>cat</key>
+		<string>ZR Series Zone 13</string>
+		<key>codes</key>
+		<dict>
+			<key>CURSOR DOWN</key>
+			<string>zsc,14,29</string>
+			<key>CURSOR ENTER</key>
+			<string>zsc,14,26</string>
+			<key>CURSOR LEFT</key>
+			<string>zsc,14,25</string>
+			<key>CURSOR RIGHT</key>
+			<string>zsc,14,27</string>
+			<key>CURSOR UP</key>
+			<string>zsc,14,23</string>
+			<key>DIGIT 0</key>
+			<string>zsc,14,42</string>
+			<key>DIGIT 1</key>
+			<string>zsc,14,33</string>
+			<key>DIGIT 2</key>
+			<string>zsc,14,34</string>
+			<key>DIGIT 3</key>
+			<string>zsc,14,35</string>
+			<key>DIGIT 4</key>
+			<string>zsc,14,36</string>
+			<key>DIGIT 5</key>
+			<string>zsc,14,37</string>
+			<key>DIGIT 6</key>
+			<string>zsc,14,38</string>
+			<key>DIGIT 7</key>
+			<string>zsc,14,39</string>
+			<key>DIGIT 8</key>
+			<string>zsc,14,40</string>
+			<key>DIGIT 9</key>
+			<string>zsc,14,41</string>
+			<key>DISC</key>
+			<string>zsc,14,47</string>
+			<key>ENTER</key>
+			<string>zsc,14,69</string>
+			<key>FORWARD</key>
+			<string>zsc,14,21</string>
+			<key>GROUP</key>
+			<string>zsc,14,46</string>
+			<key>INPUT 1</key>
+			<string>zsc,14,01</string>
+			<key>INPUT 2</key>
+			<string>zsc,14,02</string>
+			<key>INPUT 3</key>
+			<string>zsc,14,03</string>
+			<key>INPUT 4</key>
+			<string>zsc,14,04</string>
+			<key>INPUT 5</key>
+			<string>zsc,14,05</string>
+			<key>INPUT 6</key>
+			<string>zsc,14,06</string>
+			<key>MUTE TOGGLE</key>
+			<string>zsc,14,11</string>
+			<key>NEXT</key>
+			<string>zsc,14,44</string>
+			<key>PAGE DOWN</key>
+			<string>zsc,14,127</string>
+			<key>PAGE UP</key>
+			<string>zsc,14,126</string>
+			<key>PAUSE</key>
+			<string>zsc,14,19</string>
+			<key>PLAY</key>
+			<string>zsc,14,17</string>
+			<key>POWER OFF</key>
+			<string>zsc,14,10</string>
+			<key>POWER ON</key>
+			<string>zsc,14,49</string>
+			<key>PREVIOUS</key>
+			<string>zsc,14,43</string>
+			<key>RECORD</key>
+			<string>zsc,14,144</string>
+			<key>REWIND</key>
+			<string>zsc,14,20</string>
+			<key>SHUFFLE</key>
+			<string>zsc,14,45</string>
+			<key>STOP</key>
+			<string>zsc,14,18</string>
+			<key>VOLUME DOWN</key>
+			<string>zsc,14,13</string>
+			<key>VOLUME UP</key>
+			<string>zsc,14,12</string>
+		</dict>
+		<key>method</key>
+		<string>lineio</string>
+		<key>type</key>
+		<integer>14</integer>
+		<key>uuid</key>
+		<string>FB886694-9528-4121-B592-8227711069A7</string>
+	</dict>
+	<dict>
+		<key>brand</key>
+		<string>Niles</string>
+		<key>cat</key>
+		<string>ZR Series Zone 13</string>
+		<key>codes</key>
+		<dict>
+			<key>CURSOR DOWN</key>
+			<string>zsc,15,29</string>
+			<key>CURSOR ENTER</key>
+			<string>zsc,15,26</string>
+			<key>CURSOR LEFT</key>
+			<string>zsc,15,25</string>
+			<key>CURSOR RIGHT</key>
+			<string>zsc,15,27</string>
+			<key>CURSOR UP</key>
+			<string>zsc,15,23</string>
+			<key>DIGIT 0</key>
+			<string>zsc,15,42</string>
+			<key>DIGIT 1</key>
+			<string>zsc,15,33</string>
+			<key>DIGIT 2</key>
+			<string>zsc,15,34</string>
+			<key>DIGIT 3</key>
+			<string>zsc,15,35</string>
+			<key>DIGIT 4</key>
+			<string>zsc,15,36</string>
+			<key>DIGIT 5</key>
+			<string>zsc,15,37</string>
+			<key>DIGIT 6</key>
+			<string>zsc,15,38</string>
+			<key>DIGIT 7</key>
+			<string>zsc,15,39</string>
+			<key>DIGIT 8</key>
+			<string>zsc,15,40</string>
+			<key>DIGIT 9</key>
+			<string>zsc,15,41</string>
+			<key>DISC</key>
+			<string>zsc,15,47</string>
+			<key>ENTER</key>
+			<string>zsc,15,69</string>
+			<key>FORWARD</key>
+			<string>zsc,15,21</string>
+			<key>GROUP</key>
+			<string>zsc,15,46</string>
+			<key>INPUT 1</key>
+			<string>zsc,15,01</string>
+			<key>INPUT 2</key>
+			<string>zsc,15,02</string>
+			<key>INPUT 3</key>
+			<string>zsc,15,03</string>
+			<key>INPUT 4</key>
+			<string>zsc,15,04</string>
+			<key>INPUT 5</key>
+			<string>zsc,15,05</string>
+			<key>INPUT 6</key>
+			<string>zsc,15,06</string>
+			<key>MUTE TOGGLE</key>
+			<string>zsc,15,11</string>
+			<key>NEXT</key>
+			<string>zsc,15,44</string>
+			<key>PAGE DOWN</key>
+			<string>zsc,15,127</string>
+			<key>PAGE UP</key>
+			<string>zsc,15,126</string>
+			<key>PAUSE</key>
+			<string>zsc,15,19</string>
+			<key>PLAY</key>
+			<string>zsc,15,17</string>
+			<key>POWER OFF</key>
+			<string>zsc,15,10</string>
+			<key>POWER ON</key>
+			<string>zsc,15,49</string>
+			<key>PREVIOUS</key>
+			<string>zsc,15,43</string>
+			<key>RECORD</key>
+			<string>zsc,15,144</string>
+			<key>REWIND</key>
+			<string>zsc,15,20</string>
+			<key>SHUFFLE</key>
+			<string>zsc,15,45</string>
+			<key>STOP</key>
+			<string>zsc,15,18</string>
+			<key>VOLUME DOWN</key>
+			<string>zsc,15,13</string>
+			<key>VOLUME UP</key>
+			<string>zsc,15,12</string>
+		</dict>
+		<key>method</key>
+		<string>lineio</string>
+		<key>type</key>
+		<integer>14</integer>
+		<key>uuid</key>
+		<string>5BB4FC84-B2AF-41CE-931A-4361631D9B95</string>
+	</dict>
+	<dict>
+		<key>brand</key>
+		<string>Niles</string>
+		<key>cat</key>
+		<string>ZR Series Zone 13</string>
+		<key>codes</key>
+		<dict>
+			<key>CURSOR DOWN</key>
+			<string>zsc,16,29</string>
+			<key>CURSOR ENTER</key>
+			<string>zsc,16,26</string>
+			<key>CURSOR LEFT</key>
+			<string>zsc,16,25</string>
+			<key>CURSOR RIGHT</key>
+			<string>zsc,16,27</string>
+			<key>CURSOR UP</key>
+			<string>zsc,16,23</string>
+			<key>DIGIT 0</key>
+			<string>zsc,16,42</string>
+			<key>DIGIT 1</key>
+			<string>zsc,16,33</string>
+			<key>DIGIT 2</key>
+			<string>zsc,16,34</string>
+			<key>DIGIT 3</key>
+			<string>zsc,16,35</string>
+			<key>DIGIT 4</key>
+			<string>zsc,16,36</string>
+			<key>DIGIT 5</key>
+			<string>zsc,16,37</string>
+			<key>DIGIT 6</key>
+			<string>zsc,16,38</string>
+			<key>DIGIT 7</key>
+			<string>zsc,16,39</string>
+			<key>DIGIT 8</key>
+			<string>zsc,16,40</string>
+			<key>DIGIT 9</key>
+			<string>zsc,16,41</string>
+			<key>DISC</key>
+			<string>zsc,16,47</string>
+			<key>ENTER</key>
+			<string>zsc,16,69</string>
+			<key>FORWARD</key>
+			<string>zsc,16,21</string>
+			<key>GROUP</key>
+			<string>zsc,16,46</string>
+			<key>INPUT 1</key>
+			<string>zsc,16,01</string>
+			<key>INPUT 2</key>
+			<string>zsc,16,02</string>
+			<key>INPUT 3</key>
+			<string>zsc,16,03</string>
+			<key>INPUT 4</key>
+			<string>zsc,16,04</string>
+			<key>INPUT 5</key>
+			<string>zsc,16,05</string>
+			<key>INPUT 6</key>
+			<string>zsc,16,06</string>
+			<key>MUTE TOGGLE</key>
+			<string>zsc,16,11</string>
+			<key>NEXT</key>
+			<string>zsc,16,44</string>
+			<key>PAGE DOWN</key>
+			<string>zsc,16,127</string>
+			<key>PAGE UP</key>
+			<string>zsc,16,126</string>
+			<key>PAUSE</key>
+			<string>zsc,16,19</string>
+			<key>PLAY</key>
+			<string>zsc,16,17</string>
+			<key>POWER OFF</key>
+			<string>zsc,16,10</string>
+			<key>POWER ON</key>
+			<string>zsc,16,49</string>
+			<key>PREVIOUS</key>
+			<string>zsc,16,43</string>
+			<key>RECORD</key>
+			<string>zsc,16,144</string>
+			<key>REWIND</key>
+			<string>zsc,16,20</string>
+			<key>SHUFFLE</key>
+			<string>zsc,16,45</string>
+			<key>STOP</key>
+			<string>zsc,16,18</string>
+			<key>VOLUME DOWN</key>
+			<string>zsc,16,13</string>
+			<key>VOLUME UP</key>
+			<string>zsc,16,12</string>
+		</dict>
+		<key>method</key>
+		<string>lineio</string>
+		<key>type</key>
+		<integer>14</integer>
+		<key>uuid</key>
+		<string>EA5D7106-924D-483E-B37C-CF31868FB3B2</string>
+	</dict>
+	<dict>
+		<key>brand</key>
+		<string>Niles</string>
+		<key>cat</key>
+		<string>ZR Series Zone 13</string>
+		<key>codes</key>
+		<dict>
+			<key>CURSOR DOWN</key>
+			<string>zsc,17,29</string>
+			<key>CURSOR ENTER</key>
+			<string>zsc,17,26</string>
+			<key>CURSOR LEFT</key>
+			<string>zsc,17,25</string>
+			<key>CURSOR RIGHT</key>
+			<string>zsc,17,27</string>
+			<key>CURSOR UP</key>
+			<string>zsc,17,23</string>
+			<key>DIGIT 0</key>
+			<string>zsc,17,42</string>
+			<key>DIGIT 1</key>
+			<string>zsc,17,33</string>
+			<key>DIGIT 2</key>
+			<string>zsc,17,34</string>
+			<key>DIGIT 3</key>
+			<string>zsc,17,35</string>
+			<key>DIGIT 4</key>
+			<string>zsc,17,36</string>
+			<key>DIGIT 5</key>
+			<string>zsc,17,37</string>
+			<key>DIGIT 6</key>
+			<string>zsc,17,38</string>
+			<key>DIGIT 7</key>
+			<string>zsc,17,39</string>
+			<key>DIGIT 8</key>
+			<string>zsc,17,40</string>
+			<key>DIGIT 9</key>
+			<string>zsc,17,41</string>
+			<key>DISC</key>
+			<string>zsc,17,47</string>
+			<key>ENTER</key>
+			<string>zsc,17,69</string>
+			<key>FORWARD</key>
+			<string>zsc,17,21</string>
+			<key>GROUP</key>
+			<string>zsc,17,46</string>
+			<key>INPUT 1</key>
+			<string>zsc,17,01</string>
+			<key>INPUT 2</key>
+			<string>zsc,17,02</string>
+			<key>INPUT 3</key>
+			<string>zsc,17,03</string>
+			<key>INPUT 4</key>
+			<string>zsc,17,04</string>
+			<key>INPUT 5</key>
+			<string>zsc,17,05</string>
+			<key>INPUT 6</key>
+			<string>zsc,17,06</string>
+			<key>MUTE TOGGLE</key>
+			<string>zsc,17,11</string>
+			<key>NEXT</key>
+			<string>zsc,17,44</string>
+			<key>PAGE DOWN</key>
+			<string>zsc,17,127</string>
+			<key>PAGE UP</key>
+			<string>zsc,17,126</string>
+			<key>PAUSE</key>
+			<string>zsc,17,19</string>
+			<key>PLAY</key>
+			<string>zsc,17,17</string>
+			<key>POWER OFF</key>
+			<string>zsc,17,10</string>
+			<key>POWER ON</key>
+			<string>zsc,17,49</string>
+			<key>PREVIOUS</key>
+			<string>zsc,17,43</string>
+			<key>RECORD</key>
+			<string>zsc,17,144</string>
+			<key>REWIND</key>
+			<string>zsc,17,20</string>
+			<key>SHUFFLE</key>
+			<string>zsc,17,45</string>
+			<key>STOP</key>
+			<string>zsc,17,18</string>
+			<key>VOLUME DOWN</key>
+			<string>zsc,17,13</string>
+			<key>VOLUME UP</key>
+			<string>zsc,17,12</string>
+		</dict>
+		<key>method</key>
+		<string>lineio</string>
+		<key>type</key>
+		<integer>14</integer>
+		<key>uuid</key>
+		<string>B6CDCA1C-B544-4593-B280-DF752B8F0753</string>
+	</dict>
+	<dict>
+		<key>brand</key>
+		<string>Niles</string>
+		<key>cat</key>
+		<string>ZR Series Zone 13</string>
+		<key>codes</key>
+		<dict>
+			<key>CURSOR DOWN</key>
+			<string>zsc,18,29</string>
+			<key>CURSOR ENTER</key>
+			<string>zsc,18,26</string>
+			<key>CURSOR LEFT</key>
+			<string>zsc,18,25</string>
+			<key>CURSOR RIGHT</key>
+			<string>zsc,18,27</string>
+			<key>CURSOR UP</key>
+			<string>zsc,18,23</string>
+			<key>DIGIT 0</key>
+			<string>zsc,18,42</string>
+			<key>DIGIT 1</key>
+			<string>zsc,18,33</string>
+			<key>DIGIT 2</key>
+			<string>zsc,18,34</string>
+			<key>DIGIT 3</key>
+			<string>zsc,18,35</string>
+			<key>DIGIT 4</key>
+			<string>zsc,18,36</string>
+			<key>DIGIT 5</key>
+			<string>zsc,18,37</string>
+			<key>DIGIT 6</key>
+			<string>zsc,18,38</string>
+			<key>DIGIT 7</key>
+			<string>zsc,18,39</string>
+			<key>DIGIT 8</key>
+			<string>zsc,18,40</string>
+			<key>DIGIT 9</key>
+			<string>zsc,18,41</string>
+			<key>DISC</key>
+			<string>zsc,18,47</string>
+			<key>ENTER</key>
+			<string>zsc,18,69</string>
+			<key>FORWARD</key>
+			<string>zsc,18,21</string>
+			<key>GROUP</key>
+			<string>zsc,18,46</string>
+			<key>INPUT 1</key>
+			<string>zsc,18,01</string>
+			<key>INPUT 2</key>
+			<string>zsc,18,02</string>
+			<key>INPUT 3</key>
+			<string>zsc,18,03</string>
+			<key>INPUT 4</key>
+			<string>zsc,18,04</string>
+			<key>INPUT 5</key>
+			<string>zsc,18,05</string>
+			<key>INPUT 6</key>
+			<string>zsc,18,06</string>
+			<key>MUTE TOGGLE</key>
+			<string>zsc,18,11</string>
+			<key>NEXT</key>
+			<string>zsc,18,44</string>
+			<key>PAGE DOWN</key>
+			<string>zsc,18,127</string>
+			<key>PAGE UP</key>
+			<string>zsc,18,126</string>
+			<key>PAUSE</key>
+			<string>zsc,18,19</string>
+			<key>PLAY</key>
+			<string>zsc,18,17</string>
+			<key>POWER OFF</key>
+			<string>zsc,18,10</string>
+			<key>POWER ON</key>
+			<string>zsc,18,49</string>
+			<key>PREVIOUS</key>
+			<string>zsc,18,43</string>
+			<key>RECORD</key>
+			<string>zsc,18,144</string>
+			<key>REWIND</key>
+			<string>zsc,18,20</string>
+			<key>SHUFFLE</key>
+			<string>zsc,18,45</string>
+			<key>STOP</key>
+			<string>zsc,18,18</string>
+			<key>VOLUME DOWN</key>
+			<string>zsc,18,13</string>
+			<key>VOLUME UP</key>
+			<string>zsc,18,12</string>
+		</dict>
+		<key>method</key>
+		<string>lineio</string>
+		<key>type</key>
+		<integer>14</integer>
+		<key>uuid</key>
+		<string>16D9A1D8-19DE-49B2-826F-31E100217773</string>
+	</dict>
+</array>
+</plist>
