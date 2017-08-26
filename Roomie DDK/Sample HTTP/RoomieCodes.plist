@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>brand</key>
+		<string>Sony</string>
+		<key>cat</key>
+		<string>BDP-S480</string>
+		<key>codes</key>
+		<dict>
+			<key>CURSOR DOWN</key>
+			<string>POST /upnp/control/IRCC
+Soapaction: &quot;urn:schemas-sony-com:service:IRCC:1#X_SendIRCC&quot;
+Content-Type: text/xml; charset=UTF-8
+
+&lt;?xml version=&quot;1.0&quot;?&gt;
+&lt;s:Envelope xmlns:s=&quot;http://schemas.xmlsoap.org/soap/envelope/&quot; s:encodingStyle=&quot;http://schemas.xmlsoap.org/soap/encoding/&quot;&gt;
+  &lt;s:Body&gt;
+    &lt;u:X_SendIRCC xmlns:u=&quot;urn:schemas-sony-com:service:IRCC:1&quot;&gt;
+      &lt;IRCCCode&gt;AAAAAwAAHFoAAAA6Aw==&lt;/IRCCCode&gt;
+    &lt;/u:X_SendIRCC&gt;
+  &lt;/s:Body&gt;
+&lt;/s:Envelope&gt;</string>
+			<key>CURSOR ENTER</key>
+			<string>POST /upnp/control/IRCC
+Soapaction: &quot;urn:schemas-sony-com:service:IRCC:1#X_SendIRCC&quot;
+Content-Type: text/xml; charset=UTF-8
+
+&lt;?xml version=&quot;1.0&quot;?&gt;
+&lt;s:Envelope xmlns:s=&quot;http://schemas.xmlsoap.org/soap/envelope/&quot; s:encodingStyle=&quot;http://schemas.xmlsoap.org/soap/encoding/&quot;&gt;
+  &lt;s:Body&gt;
+    &lt;u:X_SendIRCC xmlns:u=&quot;urn:schemas-sony-com:service:IRCC:1&quot;&gt;
+      &lt;IRCCCode&gt;AAAAAwAAHFoAAAA9Aw==&lt;/IRCCCode&gt;
+    &lt;/u:X_SendIRCC&gt;
+  &lt;/s:Body&gt;
+&lt;/s:Envelope&gt;</string>
+			<key>CURSOR LEFT</key>
+			<string>POST /upnp/control/IRCC
+Soapaction: &quot;urn:schemas-sony-com:service:IRCC:1#X_SendIRCC&quot;
+Content-Type: text/xml; charset=UTF-8
+
+&lt;?xml version=&quot;1.0&quot;?&gt;
+&lt;s:Envelope xmlns:s=&quot;http://schemas.xmlsoap.org/soap/envelope/&quot; s:encodingStyle=&quot;http://schemas.xmlsoap.org/soap/encoding/&quot;&gt;
+  &lt;s:Body&gt;
+    &lt;u:X_SendIRCC xmlns:u=&quot;urn:schemas-sony-com:service:IRCC:1&quot;&gt;
+      &lt;IRCCCode&gt;AAAAAwAAHFoAAAA7Aw==&lt;/IRCCCode&gt;
+    &lt;/u:X_SendIRCC&gt;
+  &lt;/s:Body&gt;
+&lt;/s:Envelope&gt;</string>
+			<key>CURSOR RIGHT</key>
+			<string>POST /upnp/control/IRCC
+Soapaction: &quot;urn:schemas-sony-com:service:IRCC:1#X_SendIRCC&quot;
+Content-Type: text/xml; charset=UTF-8
+
+&lt;?xml version=&quot;1.0&quot;?&gt;
+&lt;s:Envelope xmlns:s=&quot;http://schemas.xmlsoap.org/soap/envelope/&quot; s:encodingStyle=&quot;http://schemas.xmlsoap.org/soap/encoding/&quot;&gt;
+  &lt;s:Body&gt;
+    &lt;u:X_SendIRCC xmlns:u=&quot;urn:schemas-sony-com:service:IRCC:1&quot;&gt;
+      &lt;IRCCCode&gt;AAAAAwAAHFoAAAA8Aw==&lt;/IRCCCode&gt;
+    &lt;/u:X_SendIRCC&gt;
+  &lt;/s:Body&gt;
+&lt;/s:Envelope&gt;</string>
+			<key>CURSOR UP</key>
+			<string>POST /upnp/control/IRCC
+Soapaction: &quot;urn:schemas-sony-com:service:IRCC:1#X_SendIRCC&quot;
+Content-Type: text/xml; charset=UTF-8
+
+&lt;?xml version=&quot;1.0&quot;?&gt;
+&lt;s:Envelope xmlns:s=&quot;http://schemas.xmlsoap.org/soap/envelope/&quot; s:encodingStyle=&quot;http://schemas.xmlsoap.org/soap/encoding/&quot;&gt;
+  &lt;s:Body&gt;
+    &lt;u:X_SendIRCC xmlns:u=&quot;urn:schemas-sony-com:service:IRCC:1&quot;&gt;
+      &lt;IRCCCode&gt;AAAAAwAAHFoAAAA5Aw==&lt;/IRCCCode&gt;
+    &lt;/u:X_SendIRCC&gt;
+  &lt;/s:Body&gt;
+&lt;/s:Envelope&gt;</string>
+			<key>POWER TOGGLE</key>
+			<string>POST /upnp/control/IRCC
+Soapaction: &quot;urn:schemas-sony-com:service:IRCC:1#X_SendIRCC&quot;
+Content-Type: text/xml; charset=UTF-8
+
+&lt;?xml version=&quot;1.0&quot;?&gt;
+&lt;s:Envelope xmlns:s=&quot;http://schemas.xmlsoap.org/soap/envelope/&quot; s:encodingStyle=&quot;http://schemas.xmlsoap.org/soap/encoding/&quot;&gt;
+  &lt;s:Body&gt;
+    &lt;u:X_SendIRCC xmlns:u=&quot;urn:schemas-sony-com:service:IRCC:1&quot;&gt;
+      &lt;IRCCCode&gt;AAAAAwAAHFoAAAAVAw==&lt;/IRCCCode&gt;
+    &lt;/u:X_SendIRCC&gt;
+  &lt;/s:Body&gt;
+&lt;/s:Envelope&gt;</string>
+		</dict>
+		<key>method</key>
+		<string>http</string>
+		<key>type</key>
+		<integer>2</integer>
+	</dict>
+</array>
+</plist>

@@ -4,120 +4,72 @@
 <array>
 	<dict>
 		<key>brand</key>
-		<string>Niles</string>
+		<string>Monoprice</string>
 		<key>cat</key>
-		<string>ZR Series All Zones</string>
+		<string>Main Unit 1: All Zones</string>
 		<key>codes</key>
 		<dict>
 			<key>INPUT 1</key>
-			<string>znt,01,h</string>
+			<string>&lt;10CH01</string>
 			<key>INPUT 2</key>
-			<string>znt,02,h</string>
+			<string>&lt;10CH02</string>
 			<key>INPUT 3</key>
-			<string>znt,03,h</string>
+			<string>&lt;10CH03</string>
 			<key>INPUT 4</key>
-			<string>znt,04,h</string>
+			<string>&lt;10CH04</string>
 			<key>INPUT 5</key>
-			<string>znt,05,h</string>
+			<string>&lt;10CH05</string>
 			<key>INPUT 6</key>
-			<string>znt,06,h</string>
+			<string>&lt;10CH06</string>
 			<key>POWER OFF</key>
-			<string>znt,10,h</string>
+			<string>&lt;10PR00</string>
+			<key>POWER ON</key>
+			<string>&lt;10PR01</string>
+			<key>MUTE ON</key>
+			<string>&lt;10MU01</string>
+			<key>MUTE OFF</key>
+			<string>&lt;10MU00</string>
 		</dict>
 		<key>method</key>
 		<string>lineio</string>
 		<key>type</key>
 		<integer>14</integer>
 		<key>uuid</key>
-		<string>A4CFA47F-367C-40C7-87E4-C423A8443FE4</string>
+		<string>600EA0A4-5B43-4CF2-B077-5CE41BD56434</string>
 	</dict>
 	<dict>
 		<key>brand</key>
-		<string>Niles</string>
+		<string>Monoprice</string>
 		<key>cat</key>
-		<string>ZR Series Zone 1</string>
+		<string>Zone 1</string>
 		<key>codes</key>
 		<dict>
-			<key>CURSOR DOWN</key>
-			<string>zsc,1,29</string>
-			<key>CURSOR ENTER</key>
-			<string>zsc,1,26</string>
-			<key>CURSOR LEFT</key>
-			<string>zsc,1,25</string>
-			<key>CURSOR RIGHT</key>
-			<string>zsc,1,27</string>
-			<key>CURSOR UP</key>
-			<string>zsc,1,23</string>
-			<key>DIGIT 0</key>
-			<string>zsc,1,42</string>
-			<key>DIGIT 1</key>
-			<string>zsc,1,33</string>
-			<key>DIGIT 2</key>
-			<string>zsc,1,34</string>
-			<key>DIGIT 3</key>
-			<string>zsc,1,35</string>
-			<key>DIGIT 4</key>
-			<string>zsc,1,36</string>
-			<key>DIGIT 5</key>
-			<string>zsc,1,37</string>
-			<key>DIGIT 6</key>
-			<string>zsc,1,38</string>
-			<key>DIGIT 7</key>
-			<string>zsc,1,39</string>
-			<key>DIGIT 8</key>
-			<string>zsc,1,40</string>
-			<key>DIGIT 9</key>
-			<string>zsc,1,41</string>
-			<key>DISC</key>
-			<string>zsc,1,47</string>
-			<key>ENTER</key>
-			<string>zsc,1,69</string>
-			<key>FORWARD</key>
-			<string>zsc,1,21</string>
-			<key>GROUP</key>
-			<string>zsc,1,46</string>
 			<key>INPUT 1</key>
-			<string>zsc,1,01</string>
+			<string>&lt;11CH01</string>
 			<key>INPUT 2</key>
-			<string>zsc,1,02</string>
+			<string>&lt;11CH02</string>
 			<key>INPUT 3</key>
-			<string>zsc,1,03</string>
+			<string>&lt;11CH03</string>
 			<key>INPUT 4</key>
-			<string>zsc,1,04</string>
+			<string>&lt;11CH04</string>
 			<key>INPUT 5</key>
-			<string>zsc,1,05</string>
+			<string>&lt;11CH05</string>
 			<key>INPUT 6</key>
-			<string>zsc,1,06</string>
-			<key>MUTE TOGGLE</key>
-			<string>zsc,1,11</string>
-			<key>NEXT</key>
-			<string>zsc,1,44</string>
-			<key>PAGE DOWN</key>
-			<string>zsc,1,127</string>
-			<key>PAGE UP</key>
-			<string>zsc,1,126</string>
-			<key>PAUSE</key>
-			<string>zsc,1,19</string>
-			<key>PLAY</key>
-			<string>zsc,1,17</string>
+			<string>&lt;11CH06</string>
 			<key>POWER OFF</key>
-			<string>zsc,1,10</string>
+			<string>&lt;11PR00</string>
 			<key>POWER ON</key>
-			<string>zsc,1,49</string>
-			<key>PREVIOUS</key>
-			<string>zsc,1,43</string>
-			<key>RECORD</key>
-			<string>zsc,1,144</string>
-			<key>REWIND</key>
-			<string>zsc,1,20</string>
-			<key>SHUFFLE</key>
-			<string>zsc,1,45</string>
-			<key>STOP</key>
-			<string>zsc,1,18</string>
-			<key>VOLUME DOWN</key>
-			<string>zsc,1,13</string>
-			<key>VOLUME UP</key>
-			<string>zsc,1,12</string>
+			<string>&lt;11PR01</string>
+			<key>MUTE ON</key>
+			<string>&lt;11MU01</string>
+			<key>MUTE OFF</key>
+			<string>&lt;11MU00</string>
+			<key>.VOLUME FORMAT</key>
+			<string>402</string>
+			<key>.VOLUME SET</key>
+			<data>&lt;11VO##</data>
+			<key>.STATUS</key>
+			<data>?11</data>
 		</dict>
 		<key>method</key>
 		<string>lineio</string>

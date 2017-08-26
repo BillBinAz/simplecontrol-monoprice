@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>codes</key>
+		<dict>
+			<key>.STATUS</key>
+			<data>AgOgggDb</data>
+			<key>MUTE ON</key>
+			<data>AgSgUwABCA==</data>
+			<key>.VOLUME STATUS</key>
+			<data>AgSgkgAByQ==</data>
+			<key>VOLUME UP</key>
+			<data>AgagUgACAAEF</data>
+			<key>POWER ON</key>
+			<data>AgSgYAAB+w==</data>
+			<key>MUTE OFF</key>
+			<data>AgSgUwAACA==</data>
+			<key>POWER OFF</key>
+			<data>AgSgYAAA/A==</data>
+			<key>VOLUME DOWN</key>
+			<data>AgagUgAC//8I</data>
+		</dict>
+		<key>method</key>
+		<string>binary-ack</string>
+		<key>brand</key>
+		<string>Sony</string>
+		<key>cat</key>
+		<string>Binary Serial Protocol</string>
+		<key>type</key>
+		<integer>16</integer>
+	</dict>
+	<dict>
+		<key>codes</key>
+		<dict>
+			<key>.VOLUME SET</key>
+			<string>ISCP\x00\x00\x00\x10\x00\x00\x00\x09\x01\x00\x00\x00!1MVL##\x0d\x0a</string>
+			<key>.INPUT STATUS</key>
+			<data>SVNDUAAAABAAAAALAQAAACExU0xJUVNUTg0K</data>
+			<key>.MUTE STATUS</key>
+			<data>SVNDUAAAABAAAAALAQAAACExQU1UUVNUTg0K</data>
+			<key>.VOLUME FORMAT</key>
+			<string>200</string>
+			<key>.VOLUME STATUS</key>
+			<data>SVNDUAAAABAAAAALAQAAACExTVZMUVNUTg0K</data>
+			<key>.POWER STATUS</key>
+			<data>SVNDUAAAABAAAAALAQAAACExUFdSUVNUTg0K</data>
+			<key>.MODE STATUS</key>
+			<data>SVNDUAAAABAAAAALAQAAACExTE1EUVNUTg0K</data>
+		</dict>
+		<key>method</key>
+		<string>binary</string>
+		<key>brand</key>
+		<string>Onkyo</string>
+		<key>cat</key>
+		<string>Sample Receiver Commands</string>
+		<key>type</key>
+		<integer>16</integer>
+	</dict>
+</array>
+</plist>

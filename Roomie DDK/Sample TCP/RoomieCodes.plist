@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>codes</key>
+		<dict>
+			<key>.INPUT STATUS</key><string>?F</string>
+			<key>.MODE STATUS</key><string>?L</string>
+			<key>.MUTE STATUS</key><string>?M</string>
+			<key>.POWER STATUS</key><string>?P</string>
+			<key>.SIRIUS STATUS</key><string>?SIR</string>
+			<key>.STATUS</key><string>?P\r?V\r?F\r?L\r?M</string>
+			<key>.TUNER PRESET STATUS</key><string>?PR</string>
+			<key>.TUNER STATUS</key><string>?FR</string>
+			<key>.VOLUME SET</key><string>##VL</string>
+			<key>.VOLUME STATUS</key><string>?V</string>
+			<key>.XM STATUS</key><string>?XM</string>
+			<key>MUTE OFF</key><string>MF</string>
+			<key>MUTE ON</key><string>MO</string>
+			<key>POWER OFF</key><string>PF</string>
+			<key>POWER ON</key><string>PO</string>
+			<key>SPEAKERS A B ON</key><string>3SPK</string>
+			<key>SPEAKERS A ON</key><string>1SPK</string>
+			<key>SPEAKERS B ON</key><string>2SPK</string>
+			<key>SPEAKERS</key><string>9SPK</string>
+		</dict>
+		<key>method</key>
+		<string>lineio</string>
+		<key>brand</key>
+		<string>Pioneer</string>
+		<key>cat</key>
+		<string>VSX Series Zone 1</string>
+		<key>type</key>
+		<integer>16</integer>
+	</dict>
+</array>
+</plist>
