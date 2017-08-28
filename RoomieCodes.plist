@@ -1270,7 +1270,7 @@
             <key>brand</key>
             <string>Niles</string>
             <key>cat</key>
-            <string>ZR Series Zone 13</string>
+            <string>ZR Series Zone 14</string>
             <key>codes</key>
             <dict>
                 <key>CURSOR DOWN</key>
@@ -1365,7 +1365,7 @@
             <key>brand</key>
             <string>Niles</string>
             <key>cat</key>
-            <string>ZR Series Zone 13</string>
+            <string>ZR Series Zone 15</string>
             <key>codes</key>
             <dict>
                 <key>CURSOR DOWN</key>
@@ -1460,7 +1460,7 @@
             <key>brand</key>
             <string>Niles</string>
             <key>cat</key>
-            <string>ZR Series Zone 13</string>
+            <string>ZR Series Zone 16</string>
             <key>codes</key>
             <dict>
                 <key>CURSOR DOWN</key>
@@ -1555,7 +1555,7 @@
             <key>brand</key>
             <string>Niles</string>
             <key>cat</key>
-            <string>ZR Series Zone 13</string>
+            <string>ZR Series Zone 17</string>
             <key>codes</key>
             <dict>
                 <key>CURSOR DOWN</key>
@@ -1650,7 +1650,7 @@
             <key>brand</key>
             <string>Niles</string>
             <key>cat</key>
-            <string>ZR Series Zone 13</string>
+            <string>ZR Series Zone 18</string>
             <key>codes</key>
             <dict>
                 <key>CURSOR DOWN</key>
@@ -1801,12 +1801,6 @@
                 <string>&lt;11MU01</string>
                 <key>MUTE OFF</key>
                 <string>&lt;11MU00</string>
-                <key>.VOLUME FORMAT</key>
-                <string>402</string>
-                <key>.VOLUME SET</key>
-                <data>&lt;11VO##</data>
-                <key>.STATUS</key>
-                <data>?11</data>
             </dict>
             <key>method</key>
             <string>lineio</string>
@@ -1842,12 +1836,6 @@
                 <string>&lt;12MU01</string>
                 <key>MUTE OFF</key>
                 <string>&lt;12MU00</string>
-                <key>.VOLUME FORMAT</key>
-                <string>402</string>
-                <key>.VOLUME SET</key>
-                <data>&lt;12VO##</data>
-                <key>.STATUS</key>
-                <data>?12</data>
             </dict>
             <key>method</key>
             <string>lineio</string>
@@ -1883,12 +1871,6 @@
                 <string>&lt;13MU01</string>
                 <key>MUTE OFF</key>
                 <string>&lt;13MU00</string>
-                <key>.VOLUME FORMAT</key>
-                <string>402</string>
-                <key>.VOLUME SET</key>
-                <data>&lt;13VO##</data>
-                <key>.STATUS</key>
-                <data>?13</data>
             </dict>
             <key>method</key>
             <string>lineio</string>
@@ -1924,12 +1906,6 @@
                 <string>&lt;14MU01</string>
                 <key>MUTE OFF</key>
                 <string>&lt;14MU00</string>
-                <key>.VOLUME FORMAT</key>
-                <string>402</string>
-                <key>.VOLUME SET</key>
-                <data>&lt;14VO##</data>
-                <key>.STATUS</key>
-                <data>?14</data>
             </dict>
             <key>method</key>
             <string>lineio</string>
@@ -1965,12 +1941,6 @@
                 <string>&lt;15MU01</string>
                 <key>MUTE OFF</key>
                 <string>&lt;15MU00</string>
-                <key>.VOLUME FORMAT</key>
-                <string>402</string>
-                <key>.VOLUME SET</key>
-                <data>&lt;15VO##</data>
-                <key>.STATUS</key>
-                <data>?15</data>
             </dict>
             <key>method</key>
             <string>lineio</string>
@@ -2006,12 +1976,6 @@
                 <string>&lt;16MU01</string>
                 <key>MUTE OFF</key>
                 <string>&lt;16MU00</string>
-                <key>.VOLUME FORMAT</key>
-                <string>402</string>
-                <key>.VOLUME SET</key>
-                <data>&lt;16VO##</data>
-                <key>.STATUS</key>
-                <data>?16</data>
             </dict>
             <key>method</key>
             <string>lineio</string>
